@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cassandra": "^0.1.0",
+    "cassandra-driver": "^4.7.2",
+    "dotenv": "^16.4.7",
+    "nodetool": "^1.0.0",
+    "touch": "^3.1.1",
+    "uuid": "^11.0.4"
+  }
+}
