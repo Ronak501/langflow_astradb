@@ -24,16 +24,6 @@ try {
     const keyspace = "social_data";
     client.keyspace = keyspace;
 
-    const Query = "UPDATE social_media_engagement SET engagement_rate = ((likes + comments + shares) * 1.0 / follower) * 100;";
-    const Query_result = await client.execute(Query);
-
-    if (Query_result) {
-      console.log("Query executed successfully");
-    } else {
-      console.log(Query_result);
-      console.log("Query execution failed");
-    }
-
     // Query data from the table
     const selectQuery = "SELECT * FROM social_media_engagement";
 
