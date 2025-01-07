@@ -29,6 +29,7 @@ try {
 
     const result = await client.execute(selectQuery);
 
+    console.log(result);
     console.log("Users:");
 
     result.rows.forEach((row) => {

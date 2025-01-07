@@ -1,0 +1,47 @@
+[
+  {
+    "Post ID": 5,
+    "User ID": 104,
+    "Post Type": "Static Image",
+    "Likes": 250,
+    "Shares": 40,
+    "Comments": 55,
+    "Post Date": "2025-01-03"
+  },
+  {
+    "Post ID": 1,
+    "User ID": 101,
+    "Post Type": "Static Image",
+    "Likes": 200,
+    "Shares": 30,
+    "Comments": 40,
+    "Post Date": "2025-01-01"
+  },
+  {
+    "Post ID": 2,
+    "User ID": 102,
+    "Post Type": "Reels",
+    "Likes": 450,
+    "Shares": 120,
+    "Comments": 150,
+    "Post Date": "2025-01-02"
+  },
+  {
+    "Post ID": 4,
+    "User ID": 101,
+    "Post Type": "Carousel",
+    "Likes": 300,
+    "Shares": 50,
+    "Comments": 70,
+    "Post Date": "2025-01-03"
+  },
+  {
+    "Post ID": 3,
+    "User ID": 103,
+    "Post Type": "Text",
+    "Likes": 80,
+    "Shares": 5,
+    "Comments": 10,
+    "Post Date": "2025-01-02"
+  }
+]
